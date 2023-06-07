@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://github.com/FoxyOfJungle/TurboGML/blob/main/ICON.png" style="display:block; margin:auto; width:300px"></p>
+<p align="center"><img src="https://github.com/FoxyOfJungle/Burrn/blob/main/ICON.png" style="display:block; margin:auto; width:300px"></p>
 <h1 align="center">Burrn</h1>
 
 <p align="center">Built-in particle system that uses the particle asset built into the IDE.</p>
