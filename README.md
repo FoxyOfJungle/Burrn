@@ -4,6 +4,8 @@
 
 <p align="center">Built-in particle system that uses the particle asset built into the IDE.</p>
 
+![5fd1hgfth](https://github.com/FoxyOfJungle/Burrn/assets/52144406/98b471d3-ebec-44bd-b0ed-cdffacf55b2d)
+
 
 ## Installation:
 
@@ -35,5 +37,5 @@ Making this library took me a long time, so please click on the STAR icon, this 
 * Pause and Resume particles (individual or/and everything);
 * Avoid Memory Leak: The asset allows you to create particles created by the particle editor in a simple way, without memory leaks, even when leaving the room;
 * Good performance;
-* Compatible with Post-Processing FX (Bloom);
+* Compatible with [Post-Processing FX](https://foxyofjungle.itch.io/post-processing-fx) (Bloom);
 
