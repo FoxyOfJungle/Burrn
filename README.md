@@ -4,7 +4,7 @@
 
 <p align="center">Built-in particle system that uses the particle asset built into the IDE.</p>
 
-![5fd1hgfth](https://github.com/FoxyOfJungle/Burrn/assets/52144406/98b471d3-ebec-44bd-b0ed-cdffacf55b2d)
+![5fd1hgfth](https://github.com/FoxyOfJungle/Burrn/assets/52144406/65e1f835-6ef4-4152-a25b-f35e0cc31c61)
 
 
 ## Installation:
