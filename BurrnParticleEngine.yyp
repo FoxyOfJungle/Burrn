@@ -1,0 +1,52 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.7",
+  "name": "BurrnParticleEngine",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 1,
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Example","folderPath":"folders/Example.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Example/Objects.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particles","folderPath":"folders/Example/Particles.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Example/Rooms.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Example/Sprites.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"KazanGames","folderPath":"folders/KazanGames.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"BurnnParticleEngine","folderPath":"folders/KazanGames/BurnnParticleEngine.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Core","folderPath":"folders/KazanGames/BurnnParticleEngine/Core.yy",},
+  ],
+  "IncludedFiles": [],
+  "isEcma": false,
+  "LibraryEmitters": [],
+  "MetaData": {
+    "IDEVersion": "2023.4.0.84",
+  },
+  "resources": [
+    {"id":{"name":"__bpe_particles","path":"scripts/__bpe_particles/__bpe_particles.yy",},},
+    {"id":{"name":"__bpe_core","path":"scripts/__bpe_core/__bpe_core.yy",},},
+    {"id":{"name":"__bpe_renderer","path":"scripts/__bpe_renderer/__bpe_renderer.yy",},},
+    {"id":{"name":"part_explosion","path":"particles/part_explosion/part_explosion.yy",},},
+    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
+    {"id":{"name":"part_missile","path":"particles/part_missile/part_missile.yy",},},
+    {"id":{"name":"obj_missile","path":"objects/obj_missile/obj_missile.yy",},},
+    {"id":{"name":"part_fire","path":"particles/part_fire/part_fire.yy",},},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"id":{"name":"spr_missile","path":"sprites/spr_missile/spr_missile.yy",},},
+    {"id":{"name":"__bpe_settings","path":"scripts/__bpe_settings/__bpe_settings.yy",},},
+    {"id":{"name":"part_simple","path":"particles/part_simple/part_simple.yy",},},
+    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+  ],
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
+}

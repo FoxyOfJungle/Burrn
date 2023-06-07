@@ -1,0 +1,22 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Example","order":1,"path":"folders/Example.yy",},
+    {"name":"Objects","order":4,"path":"folders/Example/Objects.yy",},
+    {"name":"Particles","order":6,"path":"folders/Example/Particles.yy",},
+    {"name":"Rooms","order":5,"path":"folders/Example/Rooms.yy",},
+    {"name":"Sprites","order":3,"path":"folders/Example/Sprites.yy",},
+    {"name":"BurnnParticleEngine","order":1,"path":"folders/KazanGames/BurnnParticleEngine.yy",},
+    {"name":"Core","order":1,"path":"folders/KazanGames/BurnnParticleEngine/Core.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"__bpe_particles","order":2,"path":"scripts/__bpe_particles/__bpe_particles.yy",},
+    {"name":"__bpe_renderer","order":1,"path":"scripts/__bpe_renderer/__bpe_renderer.yy",},
+    {"name":"part_explosion","order":1,"path":"particles/part_explosion/part_explosion.yy",},
+    {"name":"part_missile","order":3,"path":"particles/part_missile/part_missile.yy",},
+    {"name":"obj_missile","order":1,"path":"objects/obj_missile/obj_missile.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"spr_missile","order":1,"path":"sprites/spr_missile/spr_missile.yy",},
+    {"name":"__bpe_settings","order":2,"path":"scripts/__bpe_settings/__bpe_settings.yy",},
+    {"name":"part_simple","order":2,"path":"particles/part_simple/part_simple.yy",},
+  ],
+}
