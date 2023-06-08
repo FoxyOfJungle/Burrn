@@ -13,7 +13,7 @@
 * Inside GameMaker, use "Tools > Import Local Package", then import TurboGML files into your project.
 
 ## Important: ⚠
-Making this library took me a long time, so please click on the STAR icon, this way you:
+If possible, please click on the STAR icon, this way you:
 * Shows gratitude;
 * Support my work;
 * Help other people find the repository;
