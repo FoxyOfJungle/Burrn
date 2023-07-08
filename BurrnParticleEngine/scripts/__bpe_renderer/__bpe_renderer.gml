@@ -10,6 +10,11 @@ function ParticleRenderer(layer_id, persist=false) constructor {
 	
 	#region Public Methods
 	
+	/// @func GetLayer()
+	static GetLayer = function() {
+		return __layer;
+	}
+	
 	/// @func SetLayer(new_layer)
 	static SetLayer = function(new_layer) {
 		__layer = new_layer;
