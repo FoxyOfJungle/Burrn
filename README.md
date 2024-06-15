@@ -1,7 +1,8 @@
 
 THIS LIBRARY IS LEGACY AND IT'S USE IS DISCOURAGED.  
 An update to GameMaker allowed the use of particles in world-space, making the entire functionality of this library somewhat irrelevant. Please use the built-in particle functions.  
-This repository will no longer receive updates and will eventually disappear.
+
+This repository will no longer receive updates and will eventually disappear. Thanks for your interest!
 
 <p align="center"><img src="https://github.com/FoxyOfJungle/Burrn/blob/main/ICON.png" style="display:block; margin:auto; width:300px"></p>
 <h1 align="center">Burrn</h1>
